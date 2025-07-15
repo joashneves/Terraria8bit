@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Broken",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Broken",
+  "parent":{
+    "name":"Block",
+    "path":"folders/Scripts/Block.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

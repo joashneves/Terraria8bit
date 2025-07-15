@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Apply_gravity_to_player",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Apply_gravity_to_player",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Object/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

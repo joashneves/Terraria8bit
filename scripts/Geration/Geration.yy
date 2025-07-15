@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Geration",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Geration",
+  "parent":{
+    "name":"Geration",
+    "path":"folders/Scripts/Geration.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
